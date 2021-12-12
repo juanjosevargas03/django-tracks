@@ -1,6 +1,6 @@
 Description:
 
-This project is a rest api that responds to requests to the services described below
+This project is a rest api that responds to requests to the services described below, sqlite3 is used as database
 
 to get it up and running you must first have python installed on your computer and run "pip install django requests" in a command console
 
