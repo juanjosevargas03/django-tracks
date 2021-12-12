@@ -14,7 +14,7 @@ and to run the server we go to the directory where the manage.py file is located
 
 ![image](https://user-images.githubusercontent.com/75379137/145696792-653ddc09-ab38-4e3c-aabc-2227f3d9d45e.png)
 
-endpoint to provide search search within tracks by id
+endpoint to provide search within tracks by id
 
 ![image](https://user-images.githubusercontent.com/75379137/145696859-b253c08a-de1c-4464-aa90-596fe4c103aa.png)
 
